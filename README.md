@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Souvik-Bhattacharyya
-- 👀 I’m interested in ... Web-Developement
-- 🌱 I’m currently learning ... React-js
+- 👀 I’m interested in ... Full Stack Web-Developement
+- 🌱 I’m currently learning ... ReactJs, ReactNative
 - 💞️ I’m trying to find some ... Small Projects to gain experiance 
 - 📫 How to reach me ... You can follow me on instagram/facebook
 
